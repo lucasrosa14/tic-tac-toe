@@ -23,7 +23,7 @@ janela.title('Tic Tac Toe')
 janela.geometry('260x374')
 janela.configure(bg=fundo)
 janela.resizable(False, False)
-janela.iconphoto(False, PhotoImage(file='./logo.png'))
+#janela.iconphoto(False, PhotoImage(file='./logo.png'))
 
 
 
